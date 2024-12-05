@@ -9,6 +9,15 @@ open filepath in any terminal.
 ## Usage
 
 ```python
+npm i
+
+npm run build
+
+npm run start:dev
+
+```
+In a seperate terminal re-navigate to filepath:
+```python
 npx cypress open
 ```
 Follow the instrucctions on scrren to run the tests.
