@@ -13,6 +13,10 @@ npx cypress open
 ```
 Follow the instrucctions on scrren to run the tests.
 
+## Usage Video
+
+https://drive.google.com/file/d/1p8uqW-DMAbMbeeFhtJ7sQ7qSJsRaMKUO/view
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
